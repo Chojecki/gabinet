@@ -1,6 +1,6 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+templateKey: "blog-post"
+title: "Tytuł jakiś tam"
 date: 2017-01-04T15:04:10.000Z
 featuredpost: true
 description: >-
@@ -13,22 +13,8 @@ tags:
   - tasting
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+WWyrażenie „poznawcze” (ang. cognitive)[a] odnosi się do filozoficznego pojęcia „poznanie” (ang. cognition), które dotyczy zdolności do posiadania wiedzy przez człowieka, zdolności poznawania rzeczywistości. Z perspektywy psychologicznej można określić to pojęcie jako po prostu zdolność organizmu do odbierania informacji z otoczenia, przetwarzania ich i wykorzystywania do kierowania własnym lub cudzym zachowaniem. Wyrażenie „procesy” natomiast odnosi się do procesualnego, dynamicznego charakteru opisywanych tutaj zagadnień.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+Psychologia poznawcza i podejście poznawcze postulują, że wiedzę o rzeczywistości umysł tworzy nie poprzez bierne sumowanie danych otrzymywanych z narządów zmysłu i ich magazynowanie, lecz w sposób aktywny, jako pewnego rodzaju model, odwzorowując czy też reprezentując realne obiekty w jakiejś symbolicznej postaci struktur poznawczych. Struktury stanowią pewnego rodzaju porcję wiedzy, zaś mechanizmy ich tworzenia i modyfikowania – to właśnie procesy poznawcze[1][2][3].
 
-## A little history
-
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
-
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
-
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
-
-## What you need to know before trying
-
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
-
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+Teoretycznie również i emocje można uznać za procesy przetwarzania informacji, a więc jako jakąś kategorię procesów poznawczych[b], jednakże zwykło się traktować sferę emocjonalną i sferę poznania oddzielnie. Procesy poznawcze, a w szerszym rozumieniu system poznawczy (umysł), nie są domeną wyłącznie ludzką, są raczej właściwością układu nerwowego taką samą, jak zdolność do wywoływania skurczów mięśni i poruszania się zwierząt. Niewątpliwie jednak świat zwierząt różni się pod względem rozwoju sprawności poszczególnych procesów poznawczych. Z tego powodu początkowo stosowano określenia w stylu „wyższe czynności psychiczne”, czy „wyższe czynności nerwowe”, które wprowadzono w nauce radzieckiej i przez pewien czas powszechnie stosowano także i w Polsce, kiedy psychologia poznawcza nie istniała, lub nie stanowiła jeszcze rozwiniętej dziedziny nauk psychologicznych (można spotkać taką terminologię w starych podręcznikach). Co prawda główną rolę w tworzeniu współczesnej wiedzy o procesach poznawczych ma psychologia, to jednak niezaprzeczalny wpływ wywierają także neurobiologia i neurologia. Wpływ ten jest dwustronny – teorie dotyczące procesów poznawczych opracowane na gruncie psychologii wpływają na rozwój tych dziedzin.
