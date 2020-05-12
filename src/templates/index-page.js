@@ -24,7 +24,7 @@ export const IndexPageTemplate = ({
           showThumbs={false}
           autoPlay={true}
           infiniteLoop={true}
-          internal={5}
+          internal={3}
         >
           {slider.map((slide) => (
             <div>
