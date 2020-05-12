@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:wght@700&display=swap");
+
+.carousel .slider-wrapper.axis-horizontal .slider .slide {
+  height: 500px;
+  flex-direction: column;
+  flex-flow: column;
+}
+
+.carousel .slide img {
+  height: 500px;
+  object-fit: cover;
+}
+
+.carousel .slide .legend {
+  font-size: 4em;
+  bottom: 25%;
+  background-color: #ffffff57;
+  color: #2c2b2b;
+  opacity: 1;
+  font-family: "Libre Caslon Text", serif !important;
+}
+
+.divider {
+  position: relative;
+  height: 1px;
+  padding: 20px;
+}
+
+.div-transparent:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 5%;
+  right: 5%;
+  width: 90%;
+  height: 1px;
+  background-image: linear-gradient(
+    to right,
+    transparent,
+    rgb(48, 49, 51),
+    transparent
+  );
+}
+
+.div-dot:after {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  top: -9px;
+  left: calc(50% - 9px);
+  width: 18px;
+  height: 18px;
+  background-color: goldenrod;
+  border: 1px solid rgb(48, 49, 51);
+  border-radius: 50%;
+  box-shadow: inset 0 0 0 2px white, 0 0 0 4px white;
+}
+
+hr.fancy {
+  border: 1px solid black;
+  border-width: 1px 0px;
+  color: black;
+  height: 5px;
+  position: relative;
+}
+hr.fancy:after {
+  content: "\A";
+  position: absolute;
+  bottom: -1px;
+  right: 0px;
+  display: block;
+  width: 1px;
+  height: 7px;
+  border-left: 1px solid white;
+}
+hr.fancy:before {
+  content: "\A";
+  position: absolute;
+  bottom: -1px;
+  left: 0px;
+  display: block;
+  width: 1px;
+  height: 7px;
+  border-right: 1px solid white;
+}

@@ -1,56 +1,37 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+image: /img/gay-people.jpg
+
 mainpitch:
-  title: Why Kaldi
+  title: Dlaczego warto podjąć psychoterapię?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
-intro:
-  blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+    Z psychoterapii warto skorzystać zawsze wtedy, kiedy czujemy, że doświadczane przez nas trudności życiowe przerastają nas i nie jesteśmy w stanie sami sobie z nimi poradzić. Nasze własne sposoby i rozwiązania stają się nieskuteczne, nasze najbliższe otoczenie też nie jest w stanie nam pomóc.
+  description2: >
+    W wielu przypadkach pomoc psychologiczna może okazać się niezbędna w radzeniu sobie z narastającymi trudnościami. Samodzielne wyjście z depresji, pogodzenie się ze stratą bliskiej osoby, czy przezwyciężenie uciążliwych lęków może okazać się niemożliwe do osiągnięcia. W tych najtrudniejszych momentach, kiedy czujemy bezradność i rozczarowanie, rozmowa z psychoterapeutą pozwala z innej perspektywy spojrzeć na problem, z którym się zmagamy. Podczas terapii niezwykle istotne jest nastawienie pacjenta–jego determinacja i zaangażowanie pozwolą w znacznym stopniu przyspieszyć powrót do pełni sił.
+  image1:
+    alt: Zamyślony facet
+    image: /img/think.jpg
+jakzaczac:
+  title: Jak zacząć?
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Każdą psychoterapię poprzedza konsultacja psychologiczna. Konsultacje to z reguły od 3 do 5 spotkań, na których terapeuta ma możliwość zaznajomienia się z problemem pacjenta, jego trudnościami oraz potencjalnymi oczekiwaniami od procesu terapeutycznego.  To na tych spotkaniach możesz dopytać się o szczegóły i rozwiać wszelkie wątpliwości.
+terapiaonline:
+  title: Terapia on-line
+  description: >
+    Biorąc pod uwagę utrudnienia w przemieszczaniu się, odległość od gabinetu, czy potrzebę pozostania w domu, tradycyjny kontakt w gabinecie może być nieosiągalny. Wyjściem z takiej sytuacji są spotkania on-line, Podczas połączenia  terapeuta i pacjent widzą siebie i słyszą. Do kontaktu wykorzystywane są bezpieczne systemy komunikacji audio-wideo. Przed spotkaniem ustalimy wszelkie niezbędne informacje na temat tego, w jaki sposób się połączymy :)
+  image1:
+    alt: Kobieta pracująca online
+    image: /img/online.jpg
+slider:
+  - image: /img/crisis.jpg
+    text: Kryzys
+  - image: /img/lost.jpg
+    text: Doświadczenie straty
+  - image: /img/fear.jpg
+    text: Strach
+  - image: /img/support.jpg
+    text: Wsparcie
+
 main:
   heading: Great coffee with no compromises
   description: >
