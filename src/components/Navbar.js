@@ -97,12 +97,10 @@ const Navbar = class extends React.Component {
                       flexDirection: "row",
                     }}
                   >
-                    <p style={{ fontWeight: "bold" }}>
-                      ☎️ m.dobrzynski@o2.pl | 790546231
-                    </p>
+                    <p style={{ fontSize: "18px" }}>☎️ 790546231</p>
                   </div>
-                  <p style={{ paddingTop: 5 }}>
-                    ⌛️ Godziny otwarcia: 15:00 - 21:00
+                  <p style={{ paddingTop: 5, fontSize: "18px" }}>
+                    📫 m.dobrzynski@o2.pl
                   </p>
                 </div>
               </div>

@@ -52,7 +52,7 @@ export const IndexPageTemplate = ({
                     <h1 className="main-title">{mainpitch.title}</h1>
                   </div>
                   <div>
-                    <h3 className="main-subtitle">{mainpitch.description}</h3>
+                    <h4 className="main-subtitle">{mainpitch.description}</h4>
                   </div>
                 </div>
               </div>
@@ -111,10 +111,11 @@ export const IndexPageTemplate = ({
           <div className="left-right-text">
             <h2>{terapiaonline.title}</h2>
             <p className="left-right">{terapiaonline.description}</p>
+            <p className="left-right">{terapiaonline.description2}</p>
           </div>
         </div>
         <div className="column">
-          <div className="left-right">
+          <div className="left-right-img-big">
             <img
               alt={terapiaonline.image1.alt}
               src={`${
@@ -123,6 +124,13 @@ export const IndexPageTemplate = ({
                   : terapiaonline.image1.image
               }`}
             />
+          </div>
+        </div>
+      </div>
+      <div className="columns is-12">
+        <div className="column">
+          <div className="left-right-text">
+            <p className="left-right">{terapiaonline.description3}</p>
           </div>
         </div>
       </div>
@@ -192,6 +200,8 @@ export const pageQuery = graphql`
         terapiaonline {
           title
           description
+          description2
+          description3
           image1 {
             image {
               childImageSharp {
