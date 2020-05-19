@@ -30,6 +30,56 @@ $black: #2b2523
     margin-bottom: 1.5rem
     margin-top:
 
+ol
+.gradient-list
+  counter-reset: gradient-counter
+  list-style: none
+  margin: 1.75rem 0
+  padding-left: 1rem
+  li
+    background: white
+    border-radius: 0 0.5rem 0.5rem 0.5rem
+    box-shadow: 0.25rem 0.25rem 0.6rem rgba(0,0,0,0.05), 0 0.5rem 1.125rem rgba(75,0,0,0.05)
+    counter-increment: gradient-counter
+    margin-top: 1rem
+    min-height: 3rem
+    padding: 1rem 1rem 1rem 3rem
+    position: relative
+    &::before,
+    &::after
+      background: linear-gradient(135deg, #e09705f2 0%,#fec802e8 100%)
+      border-radius: 1rem 1rem 0 1rem
+      content: ''
+      height: 3rem
+      left: -1rem
+      overflow: hidden
+      position: absolute
+      top: -1rem
+      width: 3rem
+
+    &::before
+      align-items: flex-end
+      box-shadow: 0.25rem 0.25rem 0.6rem rgba(0,0,0,0.05), 0 0.5rem 1.125rem rgba(75,0,0,0.05)
+      content: counter(gradient-counter)
+      color: white
+      font-family: 'Libre Caslon Text', serif !important
+      display: flex
+      font: 900 1.5em/1 'Montserrat'
+      justify-content: flex-end
+      padding: 0.125em 0.25em
+      z-index: 1
+
+    @for $i from 1 through 5
+      &:nth-child(10n+#{$i}):before
+        background: linear-gradient(135deg, #e09705f2 0%,#fec802e8 100%)
+
+    @for $i from 6 through 10
+      &:nth-child(10n+#{$i}):before
+        background: linear-gradient(135deg, #e09705f2 0%,#fec802e8 100%)
+
+    + li
+      margin-top: 2rem
+
 .key-words
   font-family: 'Libre Caslon Text', serif !important
 
@@ -44,8 +94,21 @@ $black: #2b2523
   -webkit-background-clip: text
   -webkit-text-fill-color: transparent
 
+.biglet::first-letter
+  font-size: 2em
+  font-weight: 900 !important
+  font-family: 'Libre Caslon Text', serif !important
+
 .main-subtitle
   line-height: 1.5em !important
+
+.portret-image
+  height: 24em !important
+  border-radius: 20px !important
+
+.portret
+  height: 100% !important
+  padding: 20px !important
 
 .left-right
   line-height: 1.9em !important
