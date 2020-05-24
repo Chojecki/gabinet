@@ -38,10 +38,12 @@ terapiaonline:
 slider:
   - image: /img/crisis.jpg
     text: Kryzys
+  - image: /img/depresja.jpg
+    text: Depresja
   - image: /img/lost.jpg
     text: Doświadczenie straty
-  - image: /img/strach.jpg
-    text: Strach
+  - image: /img/lek.jpg
+    text: Lęk
   - image: /img/support.jpg
     text: Wsparcie
 

@@ -1,7 +1,8 @@
 import React from "react";
 import { Link } from "gatsby";
 import github from "../img/github-icon.svg";
-import logo from "../img/logo.svg";
+import phone from "./phone.png";
+import mail from "./mail.png";
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -92,16 +93,27 @@ const Navbar = class extends React.Component {
                   <div
                     style={{
                       display: "flex",
-                      justifyContent: "space-between",
+                      justifyContent: "center",
                       alignItems: "center",
                       flexDirection: "row",
                     }}
                   >
-                    <p style={{ fontSize: "18px" }}>☎️ 790 546 231</p>
+                    <img style={{ height: 15, paddingRight: 5 }} src={phone} />
+                    <p style={{ fontSize: "18px" }}> 790 546 231</p>
                   </div>
-                  <p style={{ paddingTop: 5, fontSize: "18px" }}>
-                    📫 m.dobrzynski@o2.pl
-                  </p>
+                  <div
+                    style={{
+                      display: "flex",
+                      justifyContent: "center",
+                      alignItems: "center",
+                      flexDirection: "row",
+                    }}
+                  >
+                    <img style={{ height: 15, paddingRight: 5 }} src={mail} />
+                    <p style={{ paddingTop: 5, fontSize: "18px" }}>
+                      m.dobrzynski@o2.pl
+                    </p>
+                  </div>
                 </div>
               </div>
             </div>

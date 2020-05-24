@@ -14,9 +14,9 @@ export const ProductPageTemplate = ({ image, image2 }) => (
         })`,
       }}
     >
-      <h2 className="main-title" style={{ color: "white" }}>
+      <h1 className="bigtit" style={{ color: "white" }}>
         Oferta
-      </h2>
+      </h1>
     </div>
     <section className="section section--gradient">
       <div className="container">

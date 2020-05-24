@@ -2,7 +2,7 @@
 templateKey: "product-page"
 path: /products
 title: Our Coffee
-image: /img/offer.jpg
+image: /img/oferta.jpg
 image2: /img/online.jpg
 heading: Great coffee with a conscience
 description: >-
