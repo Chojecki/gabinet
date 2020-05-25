@@ -22,9 +22,15 @@ export const ContactPageTemplate = ({
               <h2 className="has-text-centered main-title">
                 Marcin Dobrzyński
               </h2>
-              <p className="left-right has-text-centered">
-                {"Tu będzie adres"}
+              <p
+                style={{ fontWeight: "bold", fontSize: 15, marginTop: -32 }}
+                className="has-text-centered"
+              >
+                Psycholog / Psychoterapeuta
               </p>
+              {/* <p className="left-right has-text-centered">
+                {"Tu będzie adres"}
+              </p> */}
               <p className="left-right has-text-centered">{akapit1}</p>
               <p className="left-right has-text-centered">{akapit2}</p>
               <a

@@ -41,6 +41,12 @@ export const AboutPageTemplate = ({
               <h2 className="has-text-centered main-title">
                 Marcin Dobrzyński
               </h2>
+              <p
+                style={{ fontWeight: "bold", fontSize: 15, marginTop: -32 }}
+                className="has-text-centered"
+              >
+                Psycholog / Psychoterapeuta
+              </p>
               <p className="left-right biglet">{akapit1}</p>
             </div>
           </div>
@@ -76,30 +82,30 @@ export const AboutPageTemplate = ({
           <p style={{ padding: 20 }} className="left-right has-text-centered">
             Oferuję swoją pomoc w obszarach:
           </p>
-          <ol class="gradient-list">
+          <div style={{ paddingLeft: 30, paddingTop: 20, paddingBottom: 40 }}>
             {obszary.map((obszar) => (
               <li>{obszar}</li>
             ))}
-          </ol>
+          </div>
           <div class="divider div-transparent div-dot"></div>
           <p style={{ padding: 20 }} className="left-right has-text-centered">
             Zapraszam również osoby, które:
           </p>
-          <ol class="gradient-list">
+          <div style={{ paddingLeft: 30, paddingTop: 20, paddingBottom: 40 }}>
             {obszary2.map((obszar) => (
               <li>{obszar}</li>
             ))}
-          </ol>
+          </div>
           <div class="divider div-transparent div-dot"></div>
           <p style={{ padding: 20 }} className="left-right has-text-centered">
             Do kontaktu zachęcam także osoby, które są w trakcie przeżywania
             straty po śmierci kogoś bliskiego i czują że:
           </p>
-          <ol class="gradient-list">
+          <div style={{ paddingLeft: 30, paddingTop: 20, paddingBottom: 40 }}>
             {obszary3.map((obszar) => (
               <li>{obszar}</li>
             ))}
-          </ol>
+          </div>
         </div>
       </section>
     </>
