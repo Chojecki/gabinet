@@ -1,10 +1,10 @@
+import { withPrefix } from "gatsby";
 import React from "react";
 import { Helmet } from "react-helmet";
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
 import "./all.sass";
 import useSiteMetadata from "./SiteMetadata";
-import { withPrefix } from "gatsby";
 
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata();
@@ -14,6 +14,10 @@ const TemplateWrapper = ({ children }) => {
         <html lang="en" />
         <title>{title}</title>
         <meta name="description" content={description} />
+        <meta
+          name="google-site-verification"
+          content="UHM6UOLgE0xh618QmMuqeUB7guCmEFVhy6IaBFBHYCU"
+        />
 
         <link
           rel="apple-touch-icon"
