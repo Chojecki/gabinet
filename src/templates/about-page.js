@@ -1,8 +1,8 @@
-import React from "react";
-import PropTypes from "prop-types";
 import { graphql } from "gatsby";
-import Layout from "../components/Layout";
+import PropTypes from "prop-types";
+import React from "react";
 import Content, { HTMLContent } from "../components/Content";
+import Layout from "../components/Layout";
 
 export const AboutPageTemplate = ({
   image,
@@ -99,7 +99,7 @@ export const AboutPageTemplate = ({
           <div class="divider div-transparent div-dot"></div>
           <p style={{ padding: 20 }} className="left-right has-text-centered">
             Do kontaktu zachęcam także osoby, które są w trakcie przeżywania
-            straty po śmierci kogoś bliskiego i czują że:
+            straty po śmierci kogoś bliskiego i czują, że:
           </p>
           <div style={{ paddingLeft: 30, paddingTop: 20, paddingBottom: 40 }}>
             {obszary3.map((obszar) => (

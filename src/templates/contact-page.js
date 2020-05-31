@@ -1,9 +1,9 @@
-import React from "react";
-import PropTypes from "prop-types";
 import { graphql } from "gatsby";
+import PropTypes from "prop-types";
+import React from "react";
 import zl from "../../static/img/zl.png";
-import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
+import Layout from "../components/Layout";
 
 export const ContactPageTemplate = ({
   image,
@@ -28,9 +28,15 @@ export const ContactPageTemplate = ({
               >
                 Psycholog / Psychoterapeuta
               </p>
-              {/* <p className="left-right has-text-centered">
-                {"Tu będzie adres"}
-              </p> */}
+              <p className="left-right has-text-centered">
+                {"ul. Zajęcza 7 m. 13, 00-350 Warszawa "}
+              </p>
+              <p
+                className="left-right has-text-centered "
+                style={{ marginTop: -40 }}
+              >
+                {"(250 m od stacji metra Centrum Nauki Kopernik)"}
+              </p>
               <p className="left-right has-text-centered">{akapit1}</p>
               <p className="left-right has-text-centered">{akapit2}</p>
               <a

@@ -1,6 +1,6 @@
-import React from "react";
-import PropTypes from "prop-types";
 import { graphql } from "gatsby";
+import PropTypes from "prop-types";
+import React from "react";
 import Layout from "../components/Layout";
 
 export const ProductPageTemplate = ({ image, image2 }) => (
@@ -29,14 +29,14 @@ export const ProductPageTemplate = ({ image, image2 }) => (
                     <h1 className="main-title">Konsultacja psychologiczna</h1>
                   </div>
                   <div>
-                    <h3 className="main-subtitle">
+                    <p className="left-right">
                       Służy wstępnemu zdiagnozowaniu problemu, rozpoznaniu
                       trudności, ich przyczyn oraz oczekiwań w celu doboru
                       optymalnej formy pomocy. To od trzech do pięciu spotkań,
                       doraźna pomoc, wsparcie w rozwiązaniu trudnej sytuacji,
                       początek szczegółowej diagnozy i wstęp do możliwej,
                       dłuższej pracy terapeutycznej.{" "}
-                    </h3>
+                    </p>
                     <p style={{ color: "grey" }} className="main-subtitle">
                       Koszt: 50 min/130 zł
                     </p>
@@ -57,10 +57,10 @@ export const ProductPageTemplate = ({ image, image2 }) => (
               <div className="content">
                 <div className="content">
                   <div>
-                    <h1 className="main-title">Psychoterapia indywiduwalna</h1>
+                    <h1 className="main-title">Psychoterapia indywidualna</h1>
                   </div>
                   <div>
-                    <h3 className="main-subtitle">
+                    <p className="left-right">
                       W procesie tym terapeuta towarzyszy pacjentowi w
                       rozwiązywaniu problemów życiowych i emocjonalnych, pomaga
                       zrozumieć i zmieniać schematyczne, nieświadome, często
@@ -74,7 +74,7 @@ export const ProductPageTemplate = ({ image, image2 }) => (
                       jest nastawienie pacjenta – jego determinacja i
                       zaangażowanie pozwolą w znacznym stopniu przyspieszyć
                       proces i powrót do pełni sił.
-                    </h3>
+                    </p>
                     <p style={{ color: "grey" }} className="main-subtitle">
                       Koszt: 50 min/130 zł
                     </p>
@@ -109,16 +109,16 @@ export const ProductPageTemplate = ({ image, image2 }) => (
             gabinecie może być nieosiągalny. Wyjściem z takiej sytuacji są
             spotkania on- line. Jest to stosunkowo nowy sposób dostarczania
             pomocy psychologicznej jednak wiele badań potwierdza skuteczność
-            takiej formy terapii. Wyniki statystyczne pokazały, że dzięki
-            terapii online można uzyskać znaczną poprawę zdrowia psychicznego i
-            dobrego samopoczucia. Psychoterapia ta korzysta z podobnych
-            czynników leczących co terapia twarzą w twarz. Jest to min. in.
-            komunikacja w czasie rzeczywistym, kontakt wzrokowy, sojusz
-            terapeutyczny oraz niektóre elementy z języka ciała. Podczas
-            połączenia terapeuta i pacjent widzą siebie i słyszą. Do kontaktu
-            wykorzystywane są bezpieczne systemy komunikacji audio-wideo. Przed
-            spotkaniem ustalone zostaną wszelkie niezbędne informacje na temat
-            tego, w jaki sposób nawiązać połączenie z terapeutą.
+            takiej formy terapii. Statystyki pokazały, że dzięki terapii online
+            można uzyskać znaczną poprawę zdrowia psychicznego i dobrego
+            samopoczucia. Psychoterapia ta korzysta z podobnych czynników
+            leczących co terapia twarzą w twarz. Jest to m.in. komunikacja w
+            czasie rzeczywistym, kontakt wzrokowy, sojusz terapeutyczny oraz
+            niektóre elementy mowy ciała. Podczas połączenia terapeuta i pacjent
+            widzą siebie i słyszą. Do kontaktu wykorzystywane są bezpieczne
+            systemy komunikacji audio-wideo. Przed spotkaniem ustalone zostaną
+            wszelkie niezbędne informacje na temat tego, w jaki sposób nawiązać
+            połączenie z terapeutą.
           </p>
         </div>
       </div>

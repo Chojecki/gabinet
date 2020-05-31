@@ -8,7 +8,7 @@ akapit1: >
 akapit2: >
   Istotą psychoterapii jest dla mnie zaufanie i współpraca między pacjentem a terapeutą. Wierzę, że praca nad takimi obszarami jak: nierozwiązane konflikty wewnętrzne, nieuświadomione mechanizmy działania oraz ukryte potrzeby jest wyjątkowo skuteczna w procesie zdrowienia i poprawy jakości życia. W pracy indywidualnej pomagam ludziom w radzeniu sobie z trudnościami psychicznymi, które związane są zarówno z bieżącymi kryzysami, jak i z bagażem wcześniejszych życiowych doświadczeń. Poprzez indywidualną pracę psychologiczną wspieram swoich pacjentów w rozumieniu siebie i innych, tak by każdy, kto zdecyduje się tę pracę podjąć, mógł kroczyć przez życie bardziej świadomie i czerpać z niego jak najwięcej.
 akapit3: >
-  Doświadczenie zawodowe zdobywałem min. na oddziałach I i III Kliniki Psychiatrycznej Instytutu Psychiatrii i Neurologii w Warszawie, Poradni Zdrowia Psychicznego SZPZLO Warszawa-Mokotów, Mokotowskim Centrum Zdrowia Psychicznego, Fundacji Nagle Sami, Warszawskim Towarzystwie Pomocy Lekarskiej i Opieki nad Psychicznie i Nerwowo Chorymi, Środowiskowych Domach Samopomocy oraz Ośrodkach Oparcia Społecznego.
+  Doświadczenie zawodowe zdobywałem m.in. na oddziałach I i III Kliniki Psychiatrycznej Instytutu Psychiatrii i Neurologii w Warszawie, w Poradni Zdrowia Psychicznego SZPZLO Warszawa-Mokotów, Mokotowskim Centrum Zdrowia Psychicznego, Fundacji Nagle Sami, Warszawskim Towarzystwie Pomocy Lekarskiej i Opieki nad Psychicznie i Nerwowo Chorymi, Środowiskowych Domach Samopomocy oraz Ośrodkach Oparcia Społecznego.
 akapit4: >
   Doskonaląc umiejętności zawodowe, aktywnie  biorę udział w konferencjach, sympozjach i szkoleniach związanych z tematyką psychoterapeutyczną.
 akapit5: >
@@ -37,6 +37,6 @@ obszary3:
   - od dłuższego czasu czują otępienie i pustkę
   - piją więcej alkoholu lub zażywają więcej leków niż dotychczas
   - pojawiła się u nich bezsenność
-  - brakuje im osób z którymi mogą podzielić się uczuciami i emocjami
+  - brakuje im osób, z którymi mogą podzielić się uczuciami i emocjami
   - pojawiają się u nich myśli samobójcze
 ---
