@@ -21,9 +21,8 @@ obszary:
   - leczenie zaburzeń lękowych
   - leczenie syndromu DDA
   - wsparcie, jeśli cierpisz na chorobę przewlekłą
-  - problemach ze sferą seksualną
-  - problemach psychosomatycznych (m. in. bezsenność, nerwobóle, utrata głosu, zespół jelita
-    drażliwego)
+  - problemy ze sferą seksualną
+  - problemy psychosomatyczne (m. in. bezsenność, nerwobóle, utrata głosu, zespół jelita drażliwego)
   - leczenie zdiagnozowanych psychiatrycznie zaburzeniach osobowości
 obszary2:
   - nie radzą sobie z napotykanymi trudnościami (w domu, w szkole, w pracy)

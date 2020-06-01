@@ -26,7 +26,9 @@ export const ProductPageTemplate = ({ image, image2 }) => (
               <div className="content">
                 <div className="content">
                   <div>
-                    <h1 className="main-title">Konsultacja psychologiczna</h1>
+                    <h1 className="main-title smaller">
+                      Konsultacja psychologiczna
+                    </h1>
                   </div>
                   <div>
                     <p className="left-right">
@@ -57,7 +59,9 @@ export const ProductPageTemplate = ({ image, image2 }) => (
               <div className="content">
                 <div className="content">
                   <div>
-                    <h1 className="main-title">Psychoterapia indywidualna</h1>
+                    <h1 className="main-title smaller">
+                      Psychoterapia indywidualna
+                    </h1>
                   </div>
                   <div>
                     <p className="left-right">
