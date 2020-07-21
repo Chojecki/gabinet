@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Tesowwy spis
 date: 2020-07-21T07:47:25.252Z
 description: To jest jakiś opis
-featuredpost: false
+featuredpost: true
 featuredimage: /img/kv.jpg
 tags:
   - rozwój
