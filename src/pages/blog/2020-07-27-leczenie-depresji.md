@@ -10,8 +10,6 @@ tags:
   - Psychoterapia
   - Farmakoterapia
 ---
-![](/img/2020-01-13_1209-466-dlugoterminowa-krotkoterminowa-psychoterapia-psychodynamiczna-podejscie-nurt-techniki-2.jpeg)
-
 Terapia z reguły prowadzona jest w trybie ambulatoryjnym, jednak w przypadku nasilonych myśli samobójczych, tendencji samobójczych lub ciężkich epizodów z objawami psychotycznymi, powinna odbywać się w warunkach szpitalnych. Podczas leczenia bardzo duże znaczenie ma ustalenie z pacjentem planu terapeutycznego oraz jego udział w procesie leczenia. W tym celu koniecznie powinna być prowadzona psychoedukcja, mająca na celu poszerzenie wiedzy pacjenta o chorobie i jej leczeniu, a także poprawę współpracy.
 
 Leczenie depresji dostępnymi współcześnie metodami jest z reguły skuteczne – u większości pacjentów dochodzi od remisji objawów.
@@ -43,3 +41,5 @@ Farmakoterapia jest współcześnie główną metodą leczenia depresji. Nowocze
 **Rokowania**
 
 Chociaż depresja jest coraz powszechniejszą chorobą, dysponujemy skutecznymi metodami jej leczenia. Najważniejsze z punktu widzenia osoby doświadczającej objawów depresyjnych, jak i jej bliskich, jest niebagatelizowanie tych objawów i jak najszybsze udanie się po pomoc. Leczenie jest zwykle bezpieczne. Powinno ono obejmować zarówno farmakoterapię, jak i psychoterapię. Często wskazana jest zespołowa opieka – zapewniana przez lekarza psychiatrą i psychoterapeutę. Leki najnowszej generacji nie są obarczone dotkliwymi skutkami ubocznymi, znacznie ułatwiają codzienne funkcjonowanie i pomagają czerpać wymierne korzyści z terapii. Zespołowe leczenie jest obecnie najskuteczniejszą metodą pomocy pacjentom i – w zależności od stopnia nasilenia choroby – przynosi stosunkowo szybką poprawę samopoczucia.
+
+![](/img/2020-01-13_1209-466-dlugoterminowa-krotkoterminowa-psychoterapia-psychodynamiczna-podejscie-nurt-techniki-2.jpeg)
