@@ -6,8 +6,12 @@ description: "Jakie znamy metody leczenia? Czy są skuteczne? "
 featuredpost: true
 featuredimage: /img/f-6879-objawy-ktore-moga-swiadczyc-o-depresji-jak-przebiega-terapia.jpg
 tags:
-  - Depresja  Psychoterapia  Farmakoterapia
+  - Depresja
+  - Psychoterapia
+  - Farmakoterapia
 ---
+![](/img/2020-01-13_1209-466-dlugoterminowa-krotkoterminowa-psychoterapia-psychodynamiczna-podejscie-nurt-techniki-2.jpeg)
+
 Terapia z reguły prowadzona jest w trybie ambulatoryjnym, jednak w przypadku nasilonych myśli samobójczych, tendencji samobójczych lub ciężkich epizodów z objawami psychotycznymi, powinna odbywać się w warunkach szpitalnych. Podczas leczenia bardzo duże znaczenie ma ustalenie z pacjentem planu terapeutycznego oraz jego udział w procesie leczenia. W tym celu koniecznie powinna być prowadzona psychoedukcja, mająca na celu poszerzenie wiedzy pacjenta o chorobie i jej leczeniu, a także poprawę współpracy.
 
 Leczenie depresji dostępnymi współcześnie metodami jest z reguły skuteczne – u większości pacjentów dochodzi od remisji objawów.
