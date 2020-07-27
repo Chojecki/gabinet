@@ -18,7 +18,7 @@ Leczenie depresji dostępnymi współcześnie metodami jest z reguły skuteczne 
 
 **Psychoterapia**
 
-W ostatnich latach opublikowano bardzo dużo wiarygodnych wyników badań klinicznych potwierdzających, że terapia psychodynamiczna jest skuteczną metodą leczenia większości zaburzeń psychicznych, w tym depresji. Dane te równocześnie wskazują, że omawiana metoda w optymalnych warunkach może zapewniać trwałą zmianę samopoczucia i funkcjonowania pacjenta.
+W ostatnich latach opublikowano bardzo dużo wiarygodnych wyników badań klinicznych potwierdzających, że psychoterapia jest skuteczną metodą leczenia większości zaburzeń psychicznych, w tym depresji. Dane te równocześnie wskazują, że omawiana metoda w optymalnych warunkach może zapewniać trwałą zmianę samopoczucia i funkcjonowania pacjenta.
 
 **Farmakoterapia**
 
