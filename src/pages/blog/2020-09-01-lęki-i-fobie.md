@@ -143,4 +143,4 @@ Podsumowując, różnice pomiędzy nieśmiałością, a fobią społeczną nie s
 
 Trwające badania nad fobią społeczną prawdopodobnie pozwolą lepiej zrozumieć jej istotę i opracować jeszcze skuteczniejsze sposoby leczenia osób cierpiących na to zaburzenie.
 
-![](/img/portrait-1634421-1280_3b01.jpg)
+![](/img/shadow-manr.jpg)
