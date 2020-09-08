@@ -53,7 +53,6 @@ export const ContactPageTemplate = ({
               <img
                 alt={"Moje zdjęcie"}
                 className="portret-image"
-                style={{ transform: "scale(0.7)" }}
                 src={`${
                   !!image.childImageSharp
                     ? image.childImageSharp.fluid.src
