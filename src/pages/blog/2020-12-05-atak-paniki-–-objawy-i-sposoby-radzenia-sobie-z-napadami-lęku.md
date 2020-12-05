@@ -5,7 +5,7 @@ date: 2020-12-05T17:52:53.657Z
 description: Atak paniki (nazywany kiedyś również atakiem nerwicy) pojawia się
   bez ostrzeżenia, jednak daje charakterystyczne objawy.
 featuredpost: true
-featuredimage: /img/jak-wygląda-atak-paniki.jpg
+featuredimage: /img/atak-paniki.jpg
 tags:
   - napad lękowy
   - atak paniki
